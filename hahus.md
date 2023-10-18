@@ -1,4 +1,7 @@
-###dators genere skaitli no 1-100 un cilvekam ir jauzmin skaitlis
+1.saturs
+    datoram ir jagenere skaitlis no 1-100
+    cikveks megina uzminet skaitli kamer dators saka mazak vai vairak
+
 
 
 
